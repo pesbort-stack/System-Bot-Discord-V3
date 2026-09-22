@@ -11,8 +11,8 @@ buttons : Owner commands , Tickets commands ,
 
  4 - You can also change the bot information with owner commands
 
+5 - Emoji must be changed in line 973, the emoji must be avaiable in your'e server !
+
 All copyrights reserved for DingeR! 
 Dev : DingeR 
 Discord username : U0km.
-
-ENJOY .
