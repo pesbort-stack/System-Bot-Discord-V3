@@ -1,0 +1,13 @@
+{
+  "name": "Realm-assistant",
+  "version": "2.0.0",
+  "description": "Jènev Assistant++ Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "discord.js": "^14.15.3"
+  }
+}
