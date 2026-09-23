@@ -1,4 +1,4 @@
-# SYSTEM DISCORD BOT
+# SYSTEM DISCORD BOT ALL IN ONE !
 1 - All commands in one 
 
 2 - The new Embed component V2 
